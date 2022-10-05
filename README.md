@@ -1,3 +1,3 @@
 # BA-MA-thesis
 
-This is a BA/MA thesis repo template.
+A place to store data and code for my Master's thesis Offshore WInd Generation in the North Sea region.
