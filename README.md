@@ -7,7 +7,7 @@ These data processing scripts themselves make use of unedited shapefiles from ex
 A link at the top of the script indicates where the data can be downloaded. 
 The designated folder for these files is the "data" folder.
 
-Copying the folder structure onto the local machine and saving the needed exogenous shapefiles allows the execution.
+Copying the folder structure onto the local machine and saving the required input shapefiles allows the execution.
 Folder paths in the scripts are relative and should work.
 
 All scripts except for oweg.ipynb are uploaded with the output displayed in the notebook. 
