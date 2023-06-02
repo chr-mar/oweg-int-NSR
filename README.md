@@ -10,7 +10,7 @@ The designated folder for these files is the "data" folder.
 Copying the folder structure onto the local machine and saving the needed exogenous shapefiles allows the execution.
 Folder paths in the scripts are relative and should work.
 
-All scripts except for oweg.ipynb are uploaded with the output. 
+All scripts except for oweg.ipynb are uploaded with the output displayed in the notebook. 
 
 
 Hywind_wind_speed_comparison is no prerquisite for runs autonomously.
