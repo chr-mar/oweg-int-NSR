@@ -25,3 +25,12 @@ Scottish Special Protection Areas (SPAs) https://cagmap.snh.gov.uk/natural-space
 Scottish Special Areas of Conservation (SACs): https://cagmap.snh.gov.uk/natural-spaces/dataset.jsp?code=SAC
 
 European Union's Natura 2000 areas: https://www.eea.europa.eu/data-and-maps/data/natura-14
+
+
+IHO-Exclusive Economic Zones intersect: https://www.vliz.be/en/imis?dasid=6404&doiid=402 
+
+IHO defintion of seas https://www.vliz.be/en/imis?dasid=5444&doiid=323
+
+GEBCO bathymetry data https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/f98b053b-0cbc-6c23-e053-6c86abc0af7b/ 
+
+EMODnet/EMSA Route density data from: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/74eef9c6-13fe-4630-b935-f26871c8b661
