@@ -18,3 +18,8 @@ English Special Areas of Conservation: https://naturalengland-defra.opendata.arc
 
 English Marine Conservation Zones: https://naturalengland-defra.opendata.arcgis.com/datasets/Defra::marine-conservation-zones-england/about
 
+Scottish Marine Protected Areas (MPAs): https://cagmap.snh.gov.uk/natural-spaces/dataset.jsp?code=MPA
+
+Scottish Special Protection Areas (SPAs) https://cagmap.snh.gov.uk/natural-spaces/dataset.jsp?code=SPA 
+
+Scottish Special Areas of Conservation (SACs): https://cagmap.snh.gov.uk/natural-spaces/dataset.jsp?code=SAC
