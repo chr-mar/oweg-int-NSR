@@ -23,3 +23,5 @@ Scottish Marine Protected Areas (MPAs): https://cagmap.snh.gov.uk/natural-spaces
 Scottish Special Protection Areas (SPAs) https://cagmap.snh.gov.uk/natural-spaces/dataset.jsp?code=SPA 
 
 Scottish Special Areas of Conservation (SACs): https://cagmap.snh.gov.uk/natural-spaces/dataset.jsp?code=SAC
+
+European Union's Natura 2000 areas: https://www.eea.europa.eu/data-and-maps/data/natura-14
