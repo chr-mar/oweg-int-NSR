@@ -9,12 +9,14 @@ The designated folder for these files is the "data" folder.
 
 1. Copy the folder structure onto your local machine.
 2. Install the environment.yml using the anaconda command line tool.
-3. Download the external shapefiles into the folder *data*.
+3. Download the external shapefiles into the folder *..\data*.
 4. Run the auxiliary scripts.
 5. Run oweg.ipynb.
 
 Folder paths in the scripts are relative.
 
+Figures in oweg.ipynb are created during runtime and saved to **..\figures**.
+
 All scripts except for oweg.ipynb are uploaded with the output displayed in the notebook. 
 
-Hywind_wind_speed_comparison needs the .xlsx-file Hywind_Wind_Speeds from the folder *data* to run.
+Hywind_wind_speed_comparison needs the .xlsx-file Hywind_Wind_Speed_Data from the folder *data* to run.
