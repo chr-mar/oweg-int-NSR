@@ -13,4 +13,4 @@ Folder paths in the scripts are relative and should work.
 All scripts except for oweg.ipynb are uploaded with the output displayed in the notebook. 
 
 
-Hywind_wind_speed_comparison is no prerquisite for runs autonomously.
+Hywind_wind_speed_comparison needs the .xlsx-file Hywind_Wind_Speeds.
