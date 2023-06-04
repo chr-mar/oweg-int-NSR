@@ -3,7 +3,7 @@
 A place to store data and code for my Master's thesis Offshore Wind Energy Potentials in the North Sea Region.
 
 The main script is oweg.ipynb. Several other scripts need to be run before in order to create shapefiles, that are a prerequisite for oweg.ipynb.
-These data processing scripts themselves make use of unedited shapefiles from exogenous sources. These can be quite large, too large for GitHub.
+These data processing scripts themselves make use of unedited shapefiles from external sources. These can be quite large, too large for GitHub.
 A link at the top of the script indicates where the data can be downloaded. 
 The designated folder for these files is the "data" folder.
 
