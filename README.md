@@ -4,7 +4,7 @@ This repository holds the code for the figures and calculations for my Master's 
 
 The main script is oweg.ipynb. Several other scripts need to be run before in order to create shapefiles that are prerequisites for oweg.ipynb.
 These data processing scripts themselves make use of unedited shapefiles from external sources. These can be quite large, too large for GitHub.
-A link at the top of each script and additionally a list in the file *\data\sources.md* indicates where the data can be downloaded. 
+Links at the top of each script and additionally a list in the file *\data\sources.md* indicates where the data can be downloaded. 
 The designated folder for these files is the "data" folder.
 
 1. Copy the folder structure onto your local machine.
