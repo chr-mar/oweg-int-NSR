@@ -15,7 +15,7 @@ The designated folder for these files is the "data" folder.
 
 Folder paths in the scripts are relative.
 
-Figures in oweg.ipynb are created during runtime and saved to **..\figures**.
+Figures in oweg.ipynb are created during runtime and saved to *..\figures*.
 
 All scripts except for oweg.ipynb are uploaded with the output displayed in the notebook. 
 
