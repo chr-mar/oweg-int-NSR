@@ -17,6 +17,6 @@ Folder paths in the scripts are relative.
 
 Figures in oweg.ipynb are created during runtime and saved to *..\figures*.
 
-All scripts except for oweg.ipynb are uploaded with the output displayed in the notebook. 
+All scripts are uploaded with the output displayed in the notebook. 
 
 Hywind_wind_speed_comparison needs the .xlsx-file Hywind_Wind_Speed_Data from the folder *data* to run.
